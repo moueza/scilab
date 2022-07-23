@@ -1,4 +1,5 @@
-//pt livr p45
+//pt livr https://github.com/moueza/isbn-2-287-59731-X-introduction-a-Scilab p45
+//resampling
 //is in interval
 tablo=[[0 10];[0 1]]
 tabloRect=[[0 10 20];[0 1 4]]
