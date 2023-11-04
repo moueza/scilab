@@ -1,5 +1,5 @@
 //pt livr https://github.com/moueza/isbn-2-287-59731-X-introduction-a-Scilab p45
-//resampling
+//resampling //https://moueza.github.io/isbn-0-8176-4009-6-engineering-and-scientific-computing-with-Scilab/ p210
 //is in interval
 tablo=[[0 10];[0 1]]
 tabloRect=[[0 10 20];[0 1 4]]
