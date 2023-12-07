@@ -4,7 +4,7 @@
 tablo=[[0 10];[0 1]]
 tabloRect=[[0 10 20];[0 1 4]]
 function [y]=interpol(listXY,targetX)
-
+// interpolation https://help.scilab.org/docs/5.3.0/fr_FR/interpln.html
 
 endfunction
 
