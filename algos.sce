@@ -58,3 +58,9 @@ function [y]=intrExPole(listXY,targetX)
 
 
 endfunction
+
+
+//zerosOfLigneBrisee 
+//sortp
+//TODO Unit test 
+//new Dates allows merge of 2 rows : ex : HR1 of 1 source from time t1, +  HR1 of 1 source from time t2 (Polar Flow + Beat)
